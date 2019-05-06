@@ -1,1 +1,1 @@
-# git_test
+This is amegani's first git project
